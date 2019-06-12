@@ -3,13 +3,20 @@
 ## Jackson Wheeler
 ### Using the ESP ADF Library
 
+# DJQueueServer
+
+#### Plays songs over from http over bluetooth.
+## Sibling repos
+- [DJQueue-WebApp](https://github.com/kshrujan/DJQueue-WebApp)
+- [DJQueueServer](https://github.com/jacksonjw12/DJQueueServer)
+
 
 
 ## Compatibility
-You need to be using the ESP-32 Lyrat board.
-And using the ESP-ADF library.
-ESP32 Espressif Arduino library wont work!
-Neither will a normal ESP-32.
+- You need to be using the ESP-32 Lyrat board.
+- And using the ESP-ADF library.
+- ESP32 Espressif Arduino library wont work!
+- Neither will a normal ESP-32.
 
 ## Usage
 

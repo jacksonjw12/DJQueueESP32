@@ -1,16 +1,22 @@
 # Dj Queue ESP32 Source Code
 
-## Written by Jackson Wheeler
+## Jackson Wheeler
 ### Using the ESP ADF Library
+
+# DJQueueServer
+
+#### Plays songs over from http over bluetooth.
+## Sibling repos
+- [DJQueue-WebApp](https://github.com/kshrujan/DJQueue-WebApp)
+- [DJQueueServer](https://github.com/jacksonjw12/DJQueueServer)
 
 
 
 ## Compatibility
-
-| ESP32-LyraT
-|:-----------:
-| [![alt text](../../../docs/_static/esp32-lyrat-v4.2-side-small.jpg "ESP32-LyraT")](https://docs.espressif.com/projects/esp-adf/en/latest/get-started/get-started-esp32-lyrat.html)  |
-| ![alt text](../../../docs/_static/yes-button.png "Compatible") |
+- You need to be using the ESP-32 Lyrat board.
+- And using the ESP-ADF library.
+- ESP32 Espressif Arduino library wont work!
+- Neither will a normal ESP-32.
 
 ## Usage
 

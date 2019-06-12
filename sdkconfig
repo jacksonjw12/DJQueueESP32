@@ -104,9 +104,9 @@ CONFIG_MONITOR_BAUD=115200
 #
 # Example Configuration
 #
-CONFIG_WIFI_SSID="SCU-Student"
-CONFIG_WIFI_PASSWORD="gosantaclara"
-CONFIG_BT_REMOTE_NAME="Ryan's Speaker"
+CONFIG_WIFI_SSID=""
+CONFIG_WIFI_PASSWORD=""
+CONFIG_BT_REMOTE_NAME=""
 
 #
 # Partition Table
